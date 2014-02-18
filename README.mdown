@@ -106,8 +106,7 @@ Algorithm.  Proceedings of the EDBT 2013 Conference, ACM, Genoa, Italy
 #### Top-K
 
  * Graham Cormode and S. Muthukrishnan. An improved data stream
-summary: The Count-Min sketch and its applications. pages 29–38.
-2004. 10.1016/j.jalgor.2003.12.001
+summary: The Count-Min sketch and its applications. pages 29–38. 2004. 10.1016/j.jalgor.2003.12.001
 http://dl.acm.org/citation.cfm?id=1073718
 
  * Cheqing Jin, Weining Qian, Chaofeng Sha, Jeffrey X. Yu, and Aoying
