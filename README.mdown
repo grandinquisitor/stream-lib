@@ -61,7 +61,7 @@ We were inspired to use this code by Jonathan Ellis' post
 ## References
 
 There are javadoc references to specific papers.  These were the ones
-we found most relevant during out research.
+we found most relevant during our research.
 
 #### Cardinality
 
@@ -84,6 +84,10 @@ Society.
 
  * Marianne Durand and Philippe Flajolet. LogLog counting of large
 cardinalities. In ESA03, volume 2832 of LNCS, pages 605–617, 2003.
+
+ * Philippe Flajolet, Eric Fusy, Olivier Gandouet, Frédéric Meunier.
+Hyperloglog: The analysis of a near-optimal cardinality estimation
+algorithm. In Analysis of Algorithms (AOFA), pages 127–146, 2007.
 
  * Kyu Y. Whang, Brad T. Vander Zanden, and Howard M. Taylor. A
 linear-time probabilistic counting algorithm for database applications.
